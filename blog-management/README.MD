@@ -3,7 +3,7 @@
 # 细节点
 1. [nodejs熟悉,http,fs,path,Buffer的使用](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/01.md)
 2. [koa的原理与koa-static、koa-router等中间件的实现](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/02.md)
-2. 服务器目录，API接口管理
+2. [服务器目录，API接口管理](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/03.md)
 3. 路由拦截
 4. jwt认证和session认证
 5. node+koa如何连接数据库，设计mysql的安装和可视化工具的使用
