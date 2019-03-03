@@ -2,7 +2,7 @@
 > 具体的描述
 # 细节点
 1. [nodejs熟悉,http,fs,path,Buffer的使用](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/01.md)
-2. 如何用node+koa搭建一个nodejs服务器，koa的中间件的原理
+2. [koa的原理与koa-static、koa-router等中间件的实现](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/02.md)
 2. 服务器目录，API接口管理
 3. 路由拦截
 4. jwt认证和session认证
