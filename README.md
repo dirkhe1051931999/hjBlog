@@ -9,6 +9,6 @@
 - 有c语言，汇编语言，计算机网络知识，算法基础
 - 目前主攻前端开发，偏业务，工作技术栈zepto+vuejs+es6+webpack，自己的技术栈vue+es6+webpack+koa+nuxt+mysql；react
 - 喜欢晚上写代码，喜欢总结自己和别人，篮球小王子
-- 会撩妹，长的偏帅
+- 会撩妹
 # 具体博客
 1. [vue+webpack+koa+redis+mysql的博客后台管理系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-management)
