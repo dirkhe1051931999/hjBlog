@@ -12,9 +12,8 @@
 - 有 c 语言，汇编语言，计算机网络知识，算法基础
 - 目前主攻前端开发，偏业务，工作技术栈 zepto+vuejs+es6+webpack，自己的技术栈 vue+es6+webpack+koa+nuxt+mysql；react
 - 喜欢晚上写代码，喜欢总结自己和别人，篮球小王子
-- 会撩妹
 
-# 具体博客
+# 博客
 
 1. [vue+webpack+koa+redis+mysql 的博客后台管理系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-management)
 2. [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
