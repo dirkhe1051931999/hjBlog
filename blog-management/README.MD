@@ -1,21 +1,23 @@
-# vue+webpack+koa+redis+mysql的博客后台管理系统
+# vue+webpack+koa+redis+mysql 的博客后台管理系统
+
 > 具体的描述
+
 # 细节点
-1. [nodejs熟悉,http,fs,path,Buffer的使用](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/01.md)
-2. [koa的原理与koa-static、koa-router等中间件的实现](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/02.md)
-2. [服务器目录，API接口管理](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/03.md)
-3. [使用koa-session实现用户认证](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/04.md)
-4. [使用jwt实现用户认证](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/05.md)
-5. node+koa如何连接数据库，设计mysql的安装和可视化工具的使用
-6. node+koa如何连接redis，涉及redis的安装和可视化工作的使用
-7. node+koa+vue+websoket的使用
-8. node+koa的文章的增删改查及文章的表结构
-9. node+koa+websoket+vue文章的实时编辑
-10. node+koa分类的增删改查及分类的表结构
-11. node+koa标签的增删改查及标签的表结构
-12. node+koa项目的增删改查及项目的表结构
-13. node+koa图片的上传，form标签的处理，图片的压缩处理。
-14. vue搭一个后端服务系统目录的建立与静态文件的引入
-15. vue实现全局的组件的使用，message，alert等
-16. vue实现分页组件
-17. axios的interceptors的使用与封装
+
+1. [nodejs 熟悉,http,fs,path,Buffer 的使用](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/01.md)
+2. [koa 的原理与 koa-static、koa-router 等中间件的实现](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/02.md)
+3. [服务器目录，API 接口管理](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/03.md)
+4. [使用 koa-session 实现用户认证](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/04.md)
+5. [使用 jwt 实现用户认证](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/05.md)
+6. [node+koa 如何连接数据库](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/06.md)
+7. node+koa 如何连接 redis，涉及 redis 的安装和可视化工作的使用
+8. node+koa+vue+websoket 的使用
+9. node+koa 的文章的增删改查及文章的表结构
+10. node+koa+websoket+vue 文章的实时编辑
+11. node+koa 分类的增删改查及分类的表结构
+12. node+koa 标签的增删改查及标签的表结构
+13. node+koa 项目的增删改查及项目的表结构
+14. node+koa 图片的上传，form 标签的处理，图片的压缩处理。
+15. vue 搭一个后端服务系统目录的建立与静态文件的引入
+16. vue 实现全局的组件的使用，message，alert 等
+17. vue 实现分页组件
