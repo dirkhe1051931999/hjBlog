@@ -10,7 +10,7 @@
 4. [使用 koa-session 实现用户认证](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/04.md)
 5. [使用 jwt 实现用户认证](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/05.md)
 6. [node+koa 如何连接数据库](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/06.md)
-7. [node+koa 如何连接 redis](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/07.md)
+7. [node+koa 如何连接 redis，mysql和redis联调](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/07.md)
 8. node+koa+vue+websoket 的使用
 9. node+koa 的文章的增删改查及文章的表结构
 10. node+koa+websoket+vue 文章的实时编辑
