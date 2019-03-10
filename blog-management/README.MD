@@ -15,7 +15,7 @@
 
 ## 代码地址
 
-`[代码地址](https://github.com/dirkhe1051931999/vue-blog-management)`
+[代码地址](https://github.com/dirkhe1051931999/vue-blog-management)
 
 # 细节点
 
