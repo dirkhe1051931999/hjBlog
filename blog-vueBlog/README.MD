@@ -4,6 +4,11 @@
 
 `vue+nuxt+less+es6+webpack`
 
+### 使用步骤
+
+1. 先要开启[后端服务](https://github.com/dirkhe1051931999/vue-blog-management)
+2. 再开启前端服务
+
 ## 完成的功能
 
 1. 文章列表，文章详情
@@ -18,7 +23,7 @@
 
 # 细节点
 
-1. nuxt.js 的介绍与使用
+1. [nuxt.js 的介绍与使用](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-vueBlog/lessions/01.md)
 
 ## 最后
 
