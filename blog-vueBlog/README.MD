@@ -25,6 +25,13 @@
 
 1. [nuxt.js 的介绍与使用](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-vueBlog/lessons/01.md)
 
+## 实现效果
+
+![首页](https://github.com/dirkhe1051931999/vue-myBlog/blob/master/screenshot/1.png)
+![档案](https://github.com/dirkhe1051931999/vue-myBlog/blob/master/screenshot/2.png)
+![项目](https://github.com/dirkhe1051931999/vue-myBlog/blob/master/screenshot/3.png)
+![详情](https://github.com/dirkhe1051931999/vue-myBlog/blob/master/screenshot/4.png)
+
 ## 最后
 
 > 求一波 star 和 fork
