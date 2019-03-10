@@ -34,6 +34,16 @@
 13. [node+koa 图片的上传、form 标签的处理和静态服务器](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/13.md)
 14. [vue 实现全局的组件、分页组件](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/14.md)
 
+## 实现效果
+![效果1](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/1.png)
+![效果2](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/2.png)
+![效果3](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/3.png)
+![效果4](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/4.png)
+![效果5](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/5.png)
+![效果6](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/6.png)
+![效果7](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/7.png)
+![效果8](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/8.png)
+
 ## 最后
 
 > 求一波 star 和 fork
