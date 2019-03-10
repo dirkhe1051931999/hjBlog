@@ -15,7 +15,7 @@
 
 # 博客
 
-1. [基于 vue+webpack+koa+redis+mysql+stcoket 的博客后台管理系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-management)
+1. [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-management)
 2. [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vueBlog)
 3. [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
 4. [nodejs 模块之 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
