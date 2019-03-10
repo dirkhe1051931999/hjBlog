@@ -1,6 +1,21 @@
-# vue+webpack+koa+redis+mysql 的博客后台管理系统
+# 博客后台管理系统
 
-> 具体的描述
+## 技术栈
+
+`vue+vue-router+node+koa+mysql+redis+socket`
+
+## 完成的功能
+
+1. 登录页面
+2. 文章列表，文章的编辑，发布，下线，socket 实时保存
+3. 新增文章编辑
+4. 分类列表，分类的删除，编辑，新增
+5. 标签列表，标签的删除，编辑，新增
+6. 项目列表，项目的删除，编辑，新增
+
+## 代码地址
+
+`[代码地址](https://github.com/dirkhe1051931999/vue-blog-management)`
 
 # 细节点
 
@@ -19,3 +34,6 @@
 13. [node+koa 图片的上传、form 标签的处理和静态服务器](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/13.md)
 14. [vue 实现全局的组件、分页组件](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/14.md)
 
+## 最后
+
+> 求一波 star 和 fork
