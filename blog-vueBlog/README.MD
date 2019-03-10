@@ -23,7 +23,7 @@
 
 # 细节点
 
-1. [nuxt.js 的介绍与使用](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-vueBlog/lessions/01.md)
+1. [nuxt.js 的介绍与使用](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-vueBlog/lessons/01.md)
 
 ## 最后
 
