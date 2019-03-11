@@ -22,3 +22,5 @@
 5. [Vue Router 的导航守卫](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/01.md)
 6. [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
 7. [vue2.4 浅析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
+8. vue 源码学习系列
+   1. [vue 源码学习第一天](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
