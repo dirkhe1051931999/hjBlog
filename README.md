@@ -23,4 +23,5 @@
 6. [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
 7. [vue2.4 浅析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
 8. vue 源码学习系列
-   - [vue 源码学习第一天](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
+   - [vue 源码学习第一天：整体分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
+   - [vue 源码学习第二天：vue 目录与构建过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/02.md)
