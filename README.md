@@ -11,7 +11,7 @@
 - 大学学的是自动化，会硬件，做过几个作品
 - 有 c 语言，汇编语言，计算机网络知识，算法基础
 - 目前主攻前端开发，偏业务，工作技术栈 zepto+vuejs+es6+webpack，自己的技术栈 vue+es6+webpack+koa+nuxt+mysql；react
-- 喜欢晚上写代码，喜欢总结自己和别人，篮球小王子
+- 喜欢晚上写代码，喜欢总结自己和别人，达拉斯忠实球迷
 
 # 博客
 
@@ -25,3 +25,4 @@
 8. vue 源码学习系列
    - [vue 源码学习第一天：整体分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
    - [vue 源码学习第二天：vue 目录与构建过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/02.md)
+   - [vue 源码学习第三天：new Vue后发生了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/03.md)
