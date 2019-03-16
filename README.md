@@ -26,3 +26,4 @@
    - [vue 源码学习第一天：整体分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
    - [vue 源码学习第二天：vue 目录与构建过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/02.md)
    - [vue 源码学习第三天：new Vue后发生了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/03.md)
+9. [nodejs 如何使用ES6的import等语法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/02.md)
