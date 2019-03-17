@@ -15,18 +15,24 @@
 
 # 博客
 
-1. [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-management)
-2. [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vueBlog)
-3. [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
-4. [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
-5. [nodejs 模块之 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
-6. [Vue Router 的导航守卫](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/01.md)
-7. [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
-8. [vue2.4 浅析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
-9. vue 源码学习系列
+1. 个人项目系列
+   - [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-management)
+   - [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vueBlog)
+   - [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
+2. vue 学习系列
+   - [vue2.4 浅析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
+   - [Vue Router 的导航守卫](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/01.md)
+3. css3 学习系列
+   - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
+4. http 学习系列
+   - [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
+5. nodejs 学习系列
+   - [nodejs 如何使用 ES6 的 import 等语法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/02.md)
+   - [nodejs 模块之 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
+6. vue 源码学习系列
    - [vue 源码学习第一天：整体分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
    - [vue 源码学习第二天：vue 目录与构建过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/02.md)
    - [vue 源码学习第三天：new Vue 后发生了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/03.md)
-10. [nodejs 如何使用 ES6 的 import 等语法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/02.md)
-11. 前端安全学习系列
-    - [前端XSS攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
+7. 前端安全学习系列
+   - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
+   - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
