@@ -35,9 +35,12 @@
    - [vue 源码学习第三天：new Vue 后发生了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/03.md)
    - [vue 源码学习第四天：\$mount 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/04.md)
    - [vue 源码学习第五天：vm.\_render 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/05.md)
-   - [vue 源码学习第六天：普通VNode的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/06.md)
+   - [vue 源码学习第六天：普通 VNode 的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/06.md)
    - [前六天小结，new Vue 后生成 dom 的过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/07.md)
-   - [vue 源码学习第七天：组件VNode的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/08.md)
+   - [vue 源码学习第七天：组件 VNode 的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/08.md)
 7. 前端安全学习系列
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
+8. webpack 学习系列
+   - webpack3.6
+     - [vue-cli 脚手架中webpack配置基础文件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
