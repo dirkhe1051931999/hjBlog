@@ -43,4 +43,4 @@
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
 8. webpack 学习系列
    - webpack3.6
-     - [vue-cli 脚手架中webpack配置基础文件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
+     - [彻底搞懂vue-cli中webpack的配置文件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
