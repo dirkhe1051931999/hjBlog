@@ -19,6 +19,7 @@
    - [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-management)
    - [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vueBlog)
    - [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
+   - [react 上手项目：响应式新闻系统](https://github.com/dirkhe1051931999/react-simpleNews)
 2. vue 系列
    - [vue2.4 浅析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
    - [Vue Router 的导航守卫](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/01.md)
@@ -41,7 +42,7 @@
 7. 前端安全系列
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
-   - [cookies的安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/03.md)
+   - [cookies 的安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/03.md)
 8. webpack 系列
    - webpack3.6
-     - [彻底搞懂vue-cli中webpack的配置文件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
+     - [彻底搞懂 vue-cli 中 webpack 的配置文件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
