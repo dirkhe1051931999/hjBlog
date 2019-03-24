@@ -41,6 +41,7 @@
 7. 前端安全学习系列
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
+   - [cookies的安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/03.md)
 8. webpack 学习系列
    - webpack3.6
      - [彻底搞懂vue-cli中webpack的配置文件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
