@@ -16,6 +16,7 @@
 3. 标签列表，标签详情
 4. 项目列表，项目详情
 5. 搜索列表，搜索详情
+6. 留言板
 
 ## 代码地址
 
@@ -31,6 +32,7 @@
 ![档案](https://github.com/dirkhe1051931999/vue-myBlog/blob/master/screenshot/2.png)
 ![项目](https://github.com/dirkhe1051931999/vue-myBlog/blob/master/screenshot/3.png)
 ![详情](https://github.com/dirkhe1051931999/vue-myBlog/blob/master/screenshot/4.png)
+![留言板](https://github.com/dirkhe1051931999/vue-myBlog/blob/master/screenshot/5.jpg)
 
 ## 最后
 

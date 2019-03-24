@@ -48,7 +48,6 @@
 ![效果6](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/6.png)
 ![效果7](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/7.png) 
 ![效果8](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/8.png)
-![效果9](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/9.png)
 
 ## 最后
 
