@@ -19,17 +19,17 @@
    - [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-management)
    - [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vueBlog)
    - [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
-2. vue 学习系列
+2. vue 系列
    - [vue2.4 浅析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
    - [Vue Router 的导航守卫](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/01.md)
-3. css3 学习系列
+3. css3 系列
    - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
-4. http 学习系列
+4. http 系列
    - [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
-5. nodejs 学习系列
+5. nodejs 系列
    - [nodejs 如何使用 ES6 的 import 等语法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/02.md)
    - [nodejs 模块之 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
-6. vue 源码学习系列
+6. vue 源码系列
    - [vue 源码学习第一天：整体分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
    - [vue 源码学习第二天：vue 目录与构建过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/02.md)
    - [vue 源码学习第三天：new Vue 后发生了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/03.md)
@@ -38,10 +38,10 @@
    - [vue 源码学习第六天：普通 VNode 的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/06.md)
    - [前六天小结，new Vue 后生成 dom 的过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/07.md)
    - [vue 源码学习第七天：组件 VNode 的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/08.md)
-7. 前端安全学习系列
+7. 前端安全系列
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
    - [cookies的安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/03.md)
-8. webpack 学习系列
+8. webpack 系列
    - webpack3.6
      - [彻底搞懂vue-cli中webpack的配置文件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
