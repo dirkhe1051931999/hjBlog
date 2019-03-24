@@ -13,6 +13,7 @@
 5. 标签列表，标签的删除，编辑，新增
 6. 项目列表，项目的删除，编辑，新增
 7. github 登录授权
+8. 评论功能
 
 ## 代码地址
 
@@ -35,6 +36,7 @@
 13. [node+koa 图片的上传、form 标签的处理和静态服务器](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/13.md)
 14. [vue 实现全局的组件、分页组件](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/14.md)
 15. [vue+koa 实现 github 登录授权](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/15.md)
+16. [评论功能](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-management/lessons/16.md)
 
 ## 实现效果
 
@@ -46,6 +48,7 @@
 ![效果6](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/6.png)
 ![效果7](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/7.png) 
 ![效果8](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/8.png)
+![效果9](https://github.com/dirkhe1051931999/vue-blog-management/blob/master/screenshot/9.png)
 
 ## 最后
 
