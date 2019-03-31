@@ -46,6 +46,7 @@
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
    - [cookie 的安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/03.md)
    - [点击劫持](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/04.md)
+   - [传输过程中的安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/05.md)
 8. webpack 系列
    - webpack3.6
      - [彻底搞懂 vue-cli 中 webpack 的配置文件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
