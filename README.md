@@ -41,6 +41,7 @@
    - [vue 源码学习第七天：组件 VNode 的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/08.md)
    - [vue 源码学习第八天：patch 的过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/09.md)
    - [vue 源码学习第九天：new Vue 后的 options 合并过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/10.md)
+   - [vue 源码学习第十天：生命周期的定义](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/11.md)
 7. 前端安全系列
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
@@ -50,7 +51,7 @@
    - [密码安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/06.md)
    - [sql 注入的问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/07.md)
    - [其他的安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/08.md)
-   - [web 安全总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/08.md)
+   - [web 安全总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/09.md)
 8. webpack 系列
    - webpack3.6
      - [彻底搞懂 vue-cli 中 webpack 的配置文件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
