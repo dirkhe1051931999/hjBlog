@@ -55,3 +55,5 @@
 8. webpack 系列
    - webpack3.6
      - [彻底搞懂 vue-cli 中 webpack 的配置文件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
+9. js 基础系列
+   - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
