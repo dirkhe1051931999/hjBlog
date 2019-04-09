@@ -43,6 +43,7 @@
    - [vue 源码学习第九天：new Vue 后的 options 合并过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/10.md)
    - [vue 源码学习第十天：生命周期的定义](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/11.md)
    - [vue 源码学习第十一天：组件注册](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/12.md)
+   - [vue 源码学习第十二天：异步组件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/13.md)
 7. 前端安全系列
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
