@@ -56,9 +56,9 @@
    - [web 安全总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/09.md)
 8. webpack
    - webpack3.6
-     - [webpack 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
+     - [vue-cli2.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
    - webpack4.x
-     - [vue-cli3.0 配置](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
+     - [vue-cli3.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
 9. JavaScript 梯子
    - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
 10. JavaScript 奥秘
