@@ -66,4 +66,4 @@
 10. JavaScript 奥秘
     - 理解 JavaScript 中的执行上下文和执行栈
     - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
-    - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
+    - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/02.md)
