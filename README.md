@@ -2,7 +2,7 @@
 
 > 原来用的是 cnblogs，由于想总结更有深度的东西，于是转到了 github 记录，原来的博客依旧写，但估计以后更多是业务和 demo，原来的博客地址[https://www.cnblogs.com/dirkhe/](https://www.cnblogs.com/dirkhe/)，希望道友多多支持。
 
-> **希自己保持每周 2-3 篇的博客更新量，坚持下去。**
+> **希自己保持每周 4-5 篇的博客更新量，坚持下去。**
 
 # 技术栈
 
@@ -66,3 +66,4 @@
 10. JavaScript 奥秘
     - 理解 JavaScript 中的执行上下文和执行栈
     - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
+    - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
