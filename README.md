@@ -8,10 +8,11 @@
 
 - 涉猎 PHP 开发，倒腾过 larveral，但最终因为电脑环境问题，放弃了
 - 涉猎 py3，倒腾过 scrapy 的爬虫，爬了拉钩的数据
-- 大学学的是自动化，会硬件，做过几个作品
-- 有 c 语言，汇编语言，计算机网络知识，算法基础
-- 目前主攻前端开发，工作技术栈 zepto+vuejs+es6+webpack，自己的技术栈 vue+es6+webpack+koa+nuxt+mysql；react
-- 喜欢晚上写代码，喜欢总结自己和别人，达拉斯忠实球迷
+- 有 c 语言，汇编语言，计算机网络知识，算法，数据库基础
+- 24 岁前目标是全栈开发
+- 大学学的是自动化，主要学习嵌入式，PCB 设计，自动控制原理；大学参加过挑战杯，美新杯，数学建模；大学从未挂科；年年奖学金；2018 年毕业，至今工作 1 年。
+- 喜欢晚上写代码，喜欢总结自己和别人
+- 喜欢打球，达拉斯忠实球迷
 
 # 博客
 
@@ -64,3 +65,4 @@
    - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
 10. JavaScript 奥秘
     - 理解 JavaScript 中的执行上下文和执行栈
+    - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
