@@ -6,13 +6,12 @@
 
 # 技术栈
 
-- 涉猎 PHP 开发，倒腾过 larveral，但最终因为电脑环境问题，放弃了
-- 涉猎 py3，倒腾过 scrapy 的爬虫，爬了拉钩的数据
+- 涉猎 PHP 开发，倒腾过 larveral，迫于电脑环境问题，最终也搁浅了
+- 涉猎 Py3，倒腾过 scrapy 的爬虫，爬了拉钩的数据
 - 有 c 语言，汇编语言，计算机网络知识，算法，数据库基础
-- 24 岁前目标是全栈开发
-- 大学学的是自动化，主要学习嵌入式，PCB 设计，自动控制原理；大学参加过挑战杯，美新杯，数学建模。
 - 喜欢晚上写代码，喜欢总结自己和别人
 - 喜欢打球，达拉斯忠实球迷
+- 一个简单的人
 
 # 博客
 
@@ -72,3 +71,4 @@
     - [理解 js 引擎执行过程：语法分析，创建函数调用栈，创建上下文，创建作用域链](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/03.md)
     - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
     - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/02.md)
+    - [Reflect](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/04.md)
