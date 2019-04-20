@@ -75,3 +75,4 @@
     - Promise
       - [Promise 的基本用法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/05.md)
       - [Promise 实现红绿灯](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/06.md)
+      - [Promise 封装一个 messageBox](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/07.md)
