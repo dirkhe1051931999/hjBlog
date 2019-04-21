@@ -78,3 +78,4 @@
       - [Promise 封装一个 messageBox](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/07.md)
       - [Promise 封装 axios](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/08.md)
     - [async/await](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/09.md)
+    - [Set、WeakSet、Map、WeakMap](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/10.md)
