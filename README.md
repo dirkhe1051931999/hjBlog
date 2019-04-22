@@ -70,7 +70,7 @@
 10. JavaScript/ECMAScript 奥秘
     - JavaScript 深入
       - [理解 js 引擎执行过程：语法分析，创建函数调用栈，创建上下文，创建作用域链](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/03.md)
-      - [理解 js 数据类型，内存机制，变量引用，垃圾回收，内存泄漏](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/14.md)
+      - [理解 js 数据类型，内存机制，变量引用，垃圾回收，内存泄漏](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/13.md)
     - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
     - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/02.md)
     - [Reflect](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/04.md)
