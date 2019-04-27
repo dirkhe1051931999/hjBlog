@@ -1,19 +1,16 @@
 # 个人博客
 
-> 原来用的是 cnblogs，由于想总结更有深度的东西，于是转到了 github 记录，原来的博客依旧写，但估计以后更多是业务和 demo，原来的博客地址[https://www.cnblogs.com/dirkhe/](https://www.cnblogs.com/dirkhe/)，希望道友多多支持。
+> :point_right: 原来用的是 cnblogs，现在用 github，原因：1.能学习 md 2.能学习 git 3.能记录博客 4.能找到自己与其他人的差距等。[原来的博客地址](https://www.cnblogs.com/dirkhe/)，希望道友多多支持。
 
-> **希自己保持每周 4-5 篇的博客更新量，坚持下去。**
+> :key: 从细节做起
 
-# 技术栈
+## 关于我
 
-- 涉猎 PHP 开发，倒腾过 larveral，迫于电脑环境问题，最终也搁浅了
-- 涉猎 Py3，倒腾过 scrapy 的爬虫，爬了拉钩的数据
-- 有 c 语言，汇编语言，计算机网络知识，算法，数据库基础
-- 喜欢晚上写代码，喜欢总结自己和别人
-- 喜欢打球，达拉斯忠实球迷
-- 一个简单的人
+- :point_right: 喜欢晚上写代码，喜欢总结自己和别人
+- :point_right: 喜欢打球，达拉斯忠实球迷
+- :point_right: 一个简单的人
 
-# 博客
+## 博客
 
 1. 个人项目
    - [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-management)
@@ -31,8 +28,11 @@
 4. http
    - [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
 5. nodejs
-   - [nodejs 如何使用 ES6 的 import 等语法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/02.md)
-   - [nodejs 模块之 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
+   - nodejs 核心 API
+     - [nodejs 模块之 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
+   - nodejs 的使用场景
+     - [nodejs 如何使用 ES6 的 import 等语法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/02.md)
+     - [nodejs 命令行脚手架工具 Commander](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/03.md)
 6. vue 源码
    - [vue 源码学习第一天：整体分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
    - [vue 源码学习第二天：vue 目录与构建过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/02.md)
