@@ -17,6 +17,7 @@
    - [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vueBlog)
    - [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
    - [react 上手项目：响应式新闻系统](https://github.com/dirkhe1051931999/react-simpleNews)
+   - [基于commander的项目初始化脚手架工具](https://github.com/dirkhe1051931999/icli)
 2. vue
    - [vue2.4 尝鲜](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
    - [Vue Router 的导航守卫](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/01.md)
