@@ -76,6 +76,7 @@
       - [理解 js 引擎执行过程：运行机制，语法分析，创建函数调用栈，创建上下文，创建作用域链](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/03.md)
       - [理解 js 数据类型，内存机制，变量引用，垃圾回收，内存泄漏](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/13.md)
       - [理解 js 作用域，作用域链，闭包](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/14.md)
+      - [理解 js this 绑定的 6 种规则：默认绑定、隐式绑定(隐式丢失)、显式绑定、new 绑定、严格模式下的 this、箭头函数绑定](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/15.md)
     - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
     - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/02.md)
     - [Reflect](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/04.md)
