@@ -13,8 +13,8 @@
 ## 博客
 
 1. 个人项目
-   - [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-management)
-   - [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vueBlog)
+   - [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/vue-blog-management)
+   - [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/vue-myBlog)
    - [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
    - [react 上手项目：响应式新闻系统](https://github.com/dirkhe1051931999/react-simpleNews)
 2. vue
