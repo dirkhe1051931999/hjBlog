@@ -62,6 +62,7 @@
      - [vue 源码学习第 21 天：响应式原理：data/props、computed、user watch 和组件的响应式原理总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/22.md)
    - 编译
      - [vue 源码学习第 22 天：compiler 都做了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/23.md)
+     - [vue 源码学习第 23 天：编译--parse 过程(解析 template)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/24.md)
 7. 前端安全
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
