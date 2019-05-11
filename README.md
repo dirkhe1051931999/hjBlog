@@ -89,6 +89,7 @@
       - [理解 js this 绑定的 6 种规则：默认绑定、隐式绑定(隐式丢失)、显式绑定、new 绑定、严格模式下的 this、箭头函数绑定](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/15.md)
       - [理解 js 的\_\_proto\_\_ 、prototype 和 constructor](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/17.md)
       - [理解 js new 操作符做了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/18.md)
+      - [理解 js 的继承：原型链继承、构造函数继承、组合继承、原型继承、寄生继承、寄生组合继承和 ES6 class extend](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/19.md)
     - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
     - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/02.md)
     - [Reflect](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/04.md)
