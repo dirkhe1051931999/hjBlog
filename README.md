@@ -27,6 +27,7 @@
    - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
 4. http
    - [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
+   - [http-header](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/02.md)
 5. nodejs
    - nodejs 核心 API
      - [nodejs 模块之 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
