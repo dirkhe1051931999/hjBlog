@@ -90,6 +90,8 @@
       - [理解 js 的\_\_proto\_\_ 、prototype 和 constructor](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/17.md)
       - [理解 js new 操作符做了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/18.md)
       - [理解 js 的继承：原型链继承、构造函数继承、组合继承、原型继承、寄生继承、寄生组合继承和 ES6 class extend](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/19.md)
+      - js 工厂模式
+        - [js 工厂模式-工厂模式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/20.md)
     - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
     - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/02.md)
     - [Reflect](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/04.md)
@@ -103,5 +105,3 @@
     - [Set、WeakSet、Map、WeakMap](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/10.md)
     - [ES5 和 ES6 数组遍历方法的使用与实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/11.md)
     - [ES5 和 ES6 对象遍历方法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/12.md)
-    - js 工厂模式
-      - [js 工厂模式-工厂模式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/20.md)
