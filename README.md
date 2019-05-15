@@ -25,6 +25,7 @@
    - [vue2.x 开发总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/05.md)
 3. css3
    - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
+   - [z-index 层叠规则](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/02.md)
 4. http
    - [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
    - [http-header](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/02.md)
@@ -107,4 +108,3 @@
     - [Set、WeakSet、Map、WeakMap](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/10.md)
     - [ES5 和 ES6 数组遍历方法的使用与实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/11.md)
     - [ES5 和 ES6 对象遍历方法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/12.md)
-    
