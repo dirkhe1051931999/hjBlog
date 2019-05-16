@@ -66,6 +66,7 @@
      - [vue 源码学习第 22 天：compiler 都做了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/23.md)
      - [vue 源码学习第 23 天：编译--parse 过程(解析 template)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/24.md)
      - [vue 源码学习第 24 天：编译--optimize 过程(优化 AST 树)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/25.md)
+     - [vue 源码学习第 25 天：parse 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/26.md)
 7. 前端安全
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
