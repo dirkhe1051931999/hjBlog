@@ -101,6 +101,7 @@
       - [理解 js 模块规范：CommonJS、AMD、CMD、UMD 和 ES6 module](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/22.md)
       - js 设计模式
         - [js 设计模式-工厂模式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/20.md)
+        - [js 设计模式-发布订阅模式(观察者模式)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/23.md)
     - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
     - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/02.md)
     - [Reflect](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/04.md)
