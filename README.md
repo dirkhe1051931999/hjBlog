@@ -89,6 +89,7 @@
 9. JavaScript 梯子
    - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
 10. JavaScript/ECMAScript 奥秘
+
     - JavaScript 深入
       - [理解 js 引擎执行过程：运行机制，语法分析，创建函数调用栈，创建上下文，创建作用域链](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/03.md)
       - [理解 js 数据类型，内存机制，变量引用，垃圾回收，内存泄漏](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/13.md)
@@ -115,3 +116,8 @@
     - [Set、WeakSet、Map、WeakMap](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/10.md)
     - [ES5 和 ES6 数组遍历方法的使用与实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/11.md)
     - [ES5 和 ES6 对象遍历方法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/12.md)
+
+11. TypeScript
+    - 入门
+      - [TypeScript 介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/00.md)
+      - [TypeScript 基础](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/01.md)
