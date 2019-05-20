@@ -24,6 +24,12 @@
    - [vue3.0 为什么要用 Proxy 替代 defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/04.md)
    - [vue2.x 开发总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/05.md)
    - [vue2.x 组件通信的 6 种方式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/06.md)
+   - vue 内置组件
+     - [keep-alive](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/07.md)
+     - component
+     - transition
+     - transition-group
+     - slot
 3. css3
    - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
    - [z-index 层叠规则](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/02.md)
