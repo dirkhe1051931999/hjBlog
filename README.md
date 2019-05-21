@@ -26,7 +26,7 @@
    - [vue2.x 组件通信的 6 种方式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/06.md)
    - vue 内置组件
      - [keep-alive](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/07.md)
-     - component
+     - [component](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/08.md)
      - transition
      - transition-group
      - slot
