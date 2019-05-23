@@ -27,9 +27,7 @@
    - vue 内置组件
      - [keep-alive](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/07.md)
      - [component](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/08.md)
-     - transition
-     - transition-group
-     - slot
+     - transition与transition-group
 3. css3
    - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
    - [z-index 层叠规则](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/02.md)
