@@ -12,7 +12,7 @@
 
 ## 博客
 
-1. 个人项目
+1. 个人作品
    - [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/vue-blog-management)
    - [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/vue-myBlog)
    - [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
@@ -127,3 +127,5 @@
       - [TypeScript 基础](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/01.md)
       - [TypeScript 进阶](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/02.md)
       - [TypeScript 代码检查方案](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/03.md)
+    - 进阶
+      - [vue+ts 环境搭建](https://github.com/dirkhe1051931999/common-demo/tree/master/vue-with-ts-env)
