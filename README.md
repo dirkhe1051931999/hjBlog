@@ -125,3 +125,5 @@
     - 入门
       - [TypeScript 介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/00.md)
       - [TypeScript 基础](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/01.md)
+      - [TypeScript 进阶](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/02.md)
+      - [TypeScript 代码检查方案](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/03.md)
