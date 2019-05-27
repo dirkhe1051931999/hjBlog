@@ -2,7 +2,7 @@
 
 > :point_right: 原来用的是 cnblogs，现在用 github，原因：1.能学习 md 2.能学习 git 3.能记录博客 4.能找到自己与其他人的差距等。[原来的博客地址](https://www.cnblogs.com/dirkhe/)，希望道友多多支持。
 
-> :key: 提升容错率
+> :key: 走路不低头
 
 ## 关于我
 
@@ -24,6 +24,9 @@
    - [vue3.0 为什么要用 Proxy 替代 defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/04.md)
    - [vue2.x 开发总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/05.md)
    - [vue2.x 组件通信的 6 种方式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/06.md)
+   - vue-cli
+     - [vue-cli2.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
+     - [vue-cli3.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/02.md)
    - vue 内置组件
      - [keep-alive](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/07.md)
      - [component](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/08.md)
@@ -86,10 +89,7 @@
    - [其他的安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/08.md)
    - [web 安全总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/09.md)
 8. webpack
-   - webpack3.6
-     - [vue-cli2.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
-   - webpack4.x
-     - [vue-cli3.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/02.md)
+   - [webpack 使用指南](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes)
 9. JavaScript 梯子
    - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
 10. JavaScript/ECMAScript 奥秘
