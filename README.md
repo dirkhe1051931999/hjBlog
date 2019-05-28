@@ -1,14 +1,14 @@
 # 个人博客
 
-> :point_right: 原来用的是 cnblogs，现在用 github，原因：1.能学习 md 2.能学习 git 3.能记录博客 4.能找到自己与其他人的差距等。[原来的博客地址](https://www.cnblogs.com/dirkhe/)，希望道友多多支持。
+## Recent Keywords
 
 > :key: 走路不低头
 
 ## 关于我
 
-- :point_right: 喜欢晚上写代码，喜欢总结自己
-- :point_right: 喜欢打球，达拉斯忠实球迷
-- :point_right: 一个简单的人
+- :point_right: 95 后
+- :point_right: 达拉斯忠实球迷
+- :point_right: 简单的人
 
 ## 博客
 
