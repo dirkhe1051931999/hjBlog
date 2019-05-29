@@ -17,7 +17,6 @@
    - [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/vue-myBlog)
    - [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
    - [上手 react：响应式新闻系统](https://github.com/dirkhe1051931999/react-simpleNews)
-   - [webpack4 多页面打包脚手架工具](https://github.com/dirkhe1051931999/webpack-multi-page-scaffold)
 2. vue
    - [vue2.4 尝鲜](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
    - [Vue Router 的导航守卫](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/01.md)
@@ -92,7 +91,7 @@
 8. 前端工程化
    - webpack
      - [webpack4 使用指南](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes)
-     - [webpack4 多页面打包脚手架工具](https://github.com/dirkhe1051931999/webpack-multi-page-scaffold)
+     - [webpack4 多页面打包](https://github.com/dirkhe1051931999/webpack-multi-page-template)
 9. JavaScript 梯子
    - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
 10. JavaScript/ECMAScript 奥秘
