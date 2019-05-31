@@ -94,7 +94,7 @@
      - [webpack4 多页面打包](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-multiPage)
      - [webpack4 性能优化：tree-shaking](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes/step7)
    - git
-     - [拒绝 git 三板斧](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
+     - [拒绝 git 三板斧](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-engineering/lessons/01.md)
 9. JavaScript 梯子
    - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
 10. JavaScript/ECMAScript 奥秘
