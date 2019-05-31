@@ -91,7 +91,8 @@
 8. 前端工程化
    - webpack
      - [webpack4 使用指南](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes)
-     - [webpack4 多页面打包](https://github.com/dirkhe1051931999/webpack-multi-page-template)
+     - [webpack4 多页面打包](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-multiPage)
+     - [webpack4 性能优化：tree-shaking](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes/step7)
 9. JavaScript 梯子
    - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
 10. JavaScript/ECMAScript 奥秘
