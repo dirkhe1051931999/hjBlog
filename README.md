@@ -25,8 +25,8 @@
    - [vue2.x 开发总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/05.md)
    - [vue2.x 组件通信的 6 种方式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/06.md)
    - vue-cli
-     - [vue-cli2.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/01.md)
-     - [vue-cli3.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-webpack/lessons/02.md)
+     - [vue-cli2.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/10.md)
+     - [vue-cli3.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/11.md)
    - vue 内置组件
      - [keep-alive](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/07.md)
      - [component](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/08.md)
@@ -34,6 +34,7 @@
 3. css3
    - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
    - [z-index 层叠规则](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/02.md)
+   - [rem 布局原理](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/03.md)
 4. http
    - [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
    - [http-header](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/02.md)
@@ -91,7 +92,10 @@
 8. 前端工程化
    - webpack
      - [webpack4 使用指南](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes)
-     - [webpack4 多页面打包](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-multi-page)
+     - [webpack4 多页面打包](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-multiPage)
+     - [webpack4 性能优化：tree-shaking](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes/step7)
+   - git
+     - [拒绝 git 三板斧](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-engineering/lessons/01.md)
 9. JavaScript 梯子
    - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
 10. JavaScript/ECMAScript 奥秘
