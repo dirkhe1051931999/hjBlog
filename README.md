@@ -94,7 +94,7 @@
      - [webpack4 使用指南](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes)
      - [webpack4 多页面打包](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-multiPage)
      - [webpack4 性能优化：tree-shaking](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes/step7)
-     - [webapck 进阶：移动端适配问题解决方案](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes/step8)
+     - [webapck 进阶：移动端适配](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes/step8)
    - git
      - [拒绝 git 三板斧](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-engineering/lessons/01.md)
 9. JavaScript 梯子
