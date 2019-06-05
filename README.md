@@ -2,7 +2,7 @@
 
 ## Recent Keywords
 
-> :key: 走路不低头
+> :key: 拒绝低效
 
 ## 关于我
 
@@ -91,10 +91,10 @@
    - [web 安全总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/09.md)
 8. 前端工程化
    - webpack
-     - [webpack4 使用指南](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes)
-     - [webpack4 多页面打包](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-multiPage)
-     - [webpack4 性能优化：tree-shaking](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes/step7)
-     - [webapck 进阶：移动端适配](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-study-notes/step8)
+     - [webpack 基础配置](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/readme.md#1)
+     - [webpack 深入配置](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/readme.md#2)
+     - [webpack 性能优化](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/readme.md#3)
+     - [webapck 进阶](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/readme.md#4)
    - git
      - [拒绝 git 三板斧](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-engineering/lessons/01.md)
 9. JavaScript 梯子
