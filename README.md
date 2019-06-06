@@ -18,19 +18,19 @@
    - [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
    - [上手 react：响应式新闻系统](https://github.com/dirkhe1051931999/react-simpleNews)
 2. vue
-   - [vue2.4 尝鲜](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
-   - [Vue Router 的导航守卫](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/01.md)
-   - [vue2.6 尝鲜](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/03.md)
-   - [vue3.0 为什么要用 Proxy 替代 defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/04.md)
+
+   - [vue2.4 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
    - [vue2.x 开发总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/05.md)
    - [vue2.x 组件通信的 6 种方式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/06.md)
-   - vue-cli
-     - [vue-cli2.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/10.md)
-     - [vue-cli3.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/11.md)
-   - vue 内置组件
-     - [keep-alive](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/07.md)
-     - [component](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/08.md)
-     - [transition 与 transition-group](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/09.md)
+   - [vue-cli2.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/10.md)
+   - [vue2.6 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/03.md)
+   - [vue3.0 为什么要用 Proxy 替代 defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/04.md)
+   - [vue-cli3.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/11.md)
+   - [Vue Router 的导航守卫](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/01.md)
+   - [keep-alive](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/07.md)
+   - [component](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/08.md)
+   - [transition 与 transition-group](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/09.md)
+
 3. css3
    - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
    - [z-index 层叠规则](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/02.md)
@@ -39,12 +39,10 @@
    - [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
    - [http-header](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/02.md)
 5. nodejs
-   - nodejs 核心 API
-     - [nodejs 模块之 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
-   - nodejs 的使用场景
-     - [nodejs 如何使用 ES6 的 import 等语法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/02.md)
-     - [nodejs 命令行脚手架工具 Commander](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/03.md)
-     - [基于 commander 的项目初始化脚手架工具](https://github.com/dirkhe1051931999/common-demo/tree/master/node-icli)
+   - [nodejs 模块之 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
+   - [nodejs 如何使用 ES6 的 import 等语法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/02.md)
+   - [nodejs 命令行脚手架工具 Commander](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/03.md)
+   - [基于 commander 的项目初始化脚手架工具](https://github.com/dirkhe1051931999/common-demo/tree/master/node-icli)
 6. vue 源码
    - [vue 源码学习第 1 天：整体分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
    - 数据驱动
@@ -101,6 +99,13 @@
    - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
 10. JavaScript/ECMAScript 奥秘
 
+    - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
+    - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/02.md)
+    - [Reflect](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/04.md)
+    - [async/await](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/09.md)
+    - [Set、WeakSet、Map、WeakMap](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/10.md)
+    - [ES5 和 ES6 数组遍历方法的使用与实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/11.md)
+    - [ES5 和 ES6 对象遍历方法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/12.md)
     - JavaScript 深入
       - [理解 js 引擎执行过程：运行机制，语法分析，创建函数调用栈，创建上下文，创建作用域链](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/03.md)
       - [理解 js 数据类型，内存机制，变量引用，垃圾回收，内存泄漏](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/13.md)
@@ -112,22 +117,15 @@
       - [理解 js 的面对对象编程、面向过程编程、命令式编程和函数式编程(声明式编程)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/21.md)
       - [理解 js 模块规范：CommonJS、AMD、CMD、UMD 和 ES6 module](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/22.md)
       - [js 中的双精度浮点数的原因、原理和解决方法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/24.md)
-      - js 设计模式
-        - [js 设计模式-工厂模式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/20.md)
-        - [js 设计模式-发布订阅模式(观察者模式)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/23.md)
-    - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
-    - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/02.md)
-    - [Reflect](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/04.md)
+    - js 设计模式
+      - [js 设计模式-工厂模式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/20.md)
+      - [js 设计模式-发布订阅模式(观察者模式)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/23.md)
     - Promise
       - [Promise 的基本用法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/05.md)
       - [Promise 实现红绿灯](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/06.md)
       - [Promise 封装一个 messageBox](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/07.md)
       - [Promise 封装 axios](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/08.md)
       - [Promise 源码实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/16.md)
-    - [async/await](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/09.md)
-    - [Set、WeakSet、Map、WeakMap](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/10.md)
-    - [ES5 和 ES6 数组遍历方法的使用与实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/11.md)
-    - [ES5 和 ES6 对象遍历方法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/12.md)
 
 11. TypeScript
     - 入门
