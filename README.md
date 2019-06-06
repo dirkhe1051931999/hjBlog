@@ -111,6 +111,7 @@
       - [理解 js 的继承：原型链继承、构造函数继承、组合继承、原型继承、寄生继承、寄生组合继承和 ES6 class extend](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/19.md)
       - [理解 js 的面对对象编程、面向过程编程、命令式编程和函数式编程(声明式编程)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/21.md)
       - [理解 js 模块规范：CommonJS、AMD、CMD、UMD 和 ES6 module](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/22.md)
+      - [js 中的双精度浮点数的原因、原理和解决方法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/24.md)
       - js 设计模式
         - [js 设计模式-工厂模式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/20.md)
         - [js 设计模式-发布订阅模式(观察者模式)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/23.md)
