@@ -25,7 +25,7 @@
    - [vue-cli2 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/10.md)
    - [vue-cli3 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/11.md)
    - [vue 组件通信的 6 种方式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/06.md)
-   - [Vue Router 的导航守卫](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/01.md)
+   - [导航守卫](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/01.md)
    - [keep-alive](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/07.md)
    - [component](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/08.md)
    - [transition 与 transition-group](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/09.md)
