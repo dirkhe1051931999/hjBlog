@@ -20,16 +20,16 @@
 2. vue
 
    - [vue2.4 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
-   - [vue2.x 开发总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/05.md)
-   - [vue2.x 组件通信的 6 种方式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/06.md)
-   - [vue-cli2.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/10.md)
    - [vue2.6 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/03.md)
    - [vue3.0 为什么要用 Proxy 替代 defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/04.md)
-   - [vue-cli3.x 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/11.md)
+   - [vue-cli2 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/10.md)
+   - [vue-cli3 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/11.md)
+   - [vue 组件通信的 6 种方式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/06.md)
    - [Vue Router 的导航守卫](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/01.md)
    - [keep-alive](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/07.md)
    - [component](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/08.md)
    - [transition 与 transition-group](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/09.md)
+   - [vue 开发总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/05.md)
 
 3. css3
    - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
@@ -37,9 +37,9 @@
    - [rem 布局原理](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/03.md)
 4. http
    - [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
-   - [http-header](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/02.md)
+   - [http 的 header 头](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/02.md)
 5. nodejs
-   - [nodejs 模块之 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
+   - [nodejs 的 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
    - [nodejs 如何使用 ES6 的 import 等语法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/02.md)
    - [nodejs 命令行脚手架工具 Commander](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/03.md)
    - [基于 commander 的项目初始化脚手架工具](https://github.com/dirkhe1051931999/common-demo/tree/master/node-icli)
@@ -116,7 +116,7 @@
       - [理解 js 的继承：原型链继承、构造函数继承、组合继承、原型继承、寄生继承、寄生组合继承和 ES6 class extend](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/19.md)
       - [理解 js 的面对对象编程、面向过程编程、命令式编程和函数式编程(声明式编程)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/21.md)
       - [理解 js 模块规范：CommonJS、AMD、CMD、UMD 和 ES6 module](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/22.md)
-      - [js 中的双精度浮点数的原因、原理和解决方法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/24.md)
+      - [理解 js 中的双精度浮点数的原因、原理和解决方法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/24.md)
     - js 设计模式
       - [js 设计模式-工厂模式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/20.md)
       - [js 设计模式-发布订阅模式(观察者模式)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/23.md)
