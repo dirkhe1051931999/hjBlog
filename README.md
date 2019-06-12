@@ -46,6 +46,7 @@
    - [nodejs 命令行脚手架工具 Commander](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/03.md)
    - [基于 commander 的项目初始化脚手架工具](https://github.com/dirkhe1051931999/common-demo/tree/master/node-icli)
 6. vue 源码
+
    - [vue 源码学习第 1 天：整体分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
    - 数据驱动
      - [vue 源码学习第 2 天：vue 目录与构建过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/02.md)
@@ -79,6 +80,9 @@
      - [vue 源码学习第 24 天：optimize 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/27.md)
      - [vue 源码学习第 25 天：编译--generate 过程(将 AST 转成 render 代码字符串)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/28.md)
      - [vue 源码学习第 25 天：generate 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/29.md)
+   - vue 的 features
+     - [DOM 事件与自定义事件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/30.md)
+
 7. 前端安全
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
