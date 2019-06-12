@@ -81,7 +81,7 @@
      - [vue 源码学习第 25 天：编译--generate 过程(将 AST 转成 render 代码字符串)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/28.md)
      - [vue 源码学习第 25 天：generate 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/29.md)
    - vue 的 features
-     - [DOM 事件与自定义事件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/30.md)
+     - [vue 源码学习第 26 天：DOM 事件与自定义事件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/30.md)
 
 7. 前端安全
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
