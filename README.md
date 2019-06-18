@@ -32,7 +32,7 @@
    - [transition 与 transition-group](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/09.md)
    - [vue 开发技巧](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/05.md)
    - [vue-cli3 中使用骨架屏](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/12.md)
-   - [vuex 的介绍与使用](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/13.md)
+   - [vuex 的原理与使用](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/13.md)
 
 3. css3
    - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
