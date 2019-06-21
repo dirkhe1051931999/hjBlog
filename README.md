@@ -87,6 +87,7 @@
      - [vue 源码学习第 27 天：v-model 的双向绑定](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/31.md)
    - vuex
      - [vue 源码学习第 28 天：vuex 的初始化：安装与 Store 实例化过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/32.md)
+     - [vue 源码学习第 29 天：vuex 的 API 、插件和对 vuex 的一些思考](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/33.md)
 
 7. 前端安全
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
