@@ -2,7 +2,8 @@
 
 ## Recent Keywords
 
-> :key: 拒绝低效
+> 1. :key: 面粉，水，鸡蛋都有了
+> 2. :key: 自律是对自己起码的尊重
 
 ## 关于我
 
@@ -31,6 +32,7 @@
    - [transition 与 transition-group](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/09.md)
    - [vue 开发技巧](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/05.md)
    - [vue-cli3 中使用骨架屏](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/12.md)
+   - [vuex 的原理与使用](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/13.md)
 
 3. css3
    - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
@@ -46,6 +48,7 @@
    - [nodejs 命令行脚手架工具 Commander](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/03.md)
    - [基于 commander 的项目初始化脚手架工具](https://github.com/dirkhe1051931999/common-demo/tree/master/node-icli)
 6. vue 源码
+
    - [vue 源码学习第 1 天：整体分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
    - 数据驱动
      - [vue 源码学习第 2 天：vue 目录与构建过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/02.md)
@@ -79,6 +82,12 @@
      - [vue 源码学习第 24 天：optimize 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/27.md)
      - [vue 源码学习第 25 天：编译--generate 过程(将 AST 转成 render 代码字符串)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/28.md)
      - [vue 源码学习第 25 天：generate 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/29.md)
+   - vue 的 features
+     - [vue 源码学习第 26 天：DOM 事件与自定义事件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/30.md)
+     - [vue 源码学习第 27 天：v-model 的双向绑定](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/31.md)
+   - vuex
+     - [vue 源码学习第 28 天：vuex 的初始化：安装与 Store 实例化过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/32.md)
+
 7. 前端安全
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
@@ -110,8 +119,9 @@
     - [ES5 和 ES6 对象遍历方法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/12.md)
     - JavaScript 深入
       - [理解 js 引擎执行过程：运行机制，语法分析，创建函数调用栈，创建上下文，创建作用域链](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/03.md)
-      - [理解 js 数据类型，内存机制，变量引用，垃圾回收，内存泄漏](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/13.md)
-      - [理解 js 作用域，作用域链，闭包](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/14.md)
+      - [理解 js 的微任务(microtask)与宏任务(microtask)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/25.md)
+      - [理解 js 的数据类型，内存机制，变量引用，垃圾回收，内存泄漏](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/13.md)
+      - [理解 js 的作用域，作用域链，闭包](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/14.md)
       - [理解 js this 绑定的 6 种规则：默认绑定、隐式绑定(隐式丢失)、显式绑定、new 绑定、严格模式下的 this、箭头函数绑定](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/15.md)
       - [理解 js 的\_\_proto\_\_ 、prototype 和 constructor](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/17.md)
       - [理解 js new 操作符做了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/18.md)
