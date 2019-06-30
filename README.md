@@ -1,24 +1,23 @@
-# 个人博客
+## :rainbow: 关键字
 
-## Recent Keywords
+> 1. :key: 自律是对自己起码的尊重
+> 2. :key: 开启下一篇章
 
-> 1. :key: 面粉，水，鸡蛋都有了
-> 2. :key: 自律是对自己起码的尊重
-
-## 关于我
+## :rainbow: 关于我
 
 - :point_right: 95 后
 - :point_right: 达拉斯忠实球迷
 - :point_right: 简单的人
 
-## 博客
+## :rainbow: 博客
 
-1. 个人作品
-   - [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/vue-blog-management)
-   - [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/vue-myBlog)
-   - [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
-   - [上手 react：响应式新闻系统](https://github.com/dirkhe1051931999/react-simpleNews)
-2. vue
+1. :memo: 个人作品
+   - :musical_note: [vue 仿网易云音乐](https://github.com/dirkhe1051931999/vue-music-v2)
+   - :notebook: [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/vue-blog-management)
+   - :blue_book: [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/vue-myBlog)
+   - :iphone: [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
+   - :newspaper: [上手 react：响应式新闻系统](https://github.com/dirkhe1051931999/react-simpleNews)
+2. :memo: vue
 
    - [vue2.4 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
    - [vue2.6 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/03.md)
@@ -35,20 +34,21 @@
    - [vuex 的原理与使用](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/13.md)
    - [\$listener 与 vue 自定义事件的联系](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/14.md)
 
-3. css3
+3. :memo: css3
    - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
    - [z-index 层叠规则](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/02.md)
    - [rem 布局原理](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/03.md)
    - [BFC 与 FFC](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/04.md)
-4. http
+   - [vw 移动端适配方法](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/step8)
+4. :memo: http
    - [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
    - [http 的 header 头](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/02.md)
-5. nodejs
+5. :memo: nodejs
    - [nodejs 的 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
    - [nodejs 如何使用 ES6 的 import 等语法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/02.md)
    - [nodejs 命令行脚手架工具 Commander](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/03.md)
    - [基于 commander 的项目初始化脚手架工具](https://github.com/dirkhe1051931999/common-demo/tree/master/node-icli)
-6. vue 源码
+6. :memo: vue 源码
 
    - [vue 源码学习第 1 天：整体分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
    - 数据驱动
@@ -90,7 +90,7 @@
      - [vue 源码学习第 28 天：vuex 的初始化：安装与 Store 实例化过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/32.md)
      - [vue 源码学习第 29 天：vuex 的 API 、插件和对 vuex 的一些思考](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/33.md)
 
-7. 前端安全
+7. :memo: 前端安全
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
    - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
    - [cookie 的安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/03.md)
@@ -100,7 +100,7 @@
    - [sql 注入的问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/07.md)
    - [其他的安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/08.md)
    - [web 安全总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/09.md)
-8. 前端工程化
+8. :memo: 前端工程化
    - webpack
      - [webpack 基础配置](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/readme.md#1)
      - [webpack 深入配置](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/readme.md#2)
@@ -108,9 +108,9 @@
      - [webapck 进阶](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/readme.md#4)
    - git
      - [拒绝 git 三板斧](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-engineering/lessons/01.md)
-9. JavaScript 梯子
+9. :memo: JavaScript 梯子
    - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
-10. JavaScript/ECMAScript 奥秘
+10. :memo: JavaScript/ECMAScript 奥秘
 
     - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
     - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/02.md)
@@ -141,7 +141,7 @@
       - [Promise 封装 axios](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/08.md)
       - [Promise 源码实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/16.md)
 
-11. TypeScript
+11. :memo: TypeScript
     - 入门
       - [TypeScript 介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/00.md)
       - [TypeScript 基础](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/01.md)
