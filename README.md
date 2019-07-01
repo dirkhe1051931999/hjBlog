@@ -12,11 +12,11 @@
 ## :rainbow: 博客
 
 1. :memo: 个人作品
-   - :musical_note: [vue 仿网易云音乐](https://github.com/dirkhe1051931999/vue-music-v2)
+   - :musical_note: [vue 仿网易云音乐 webAPP](https://github.com/dirkhe1051931999/vue-music-v2)
    - :notebook: [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/vue-blog-management)
-   - :blue_book: [基于 vue+nuxt+less+es6+webpack 的博客系统](https://github.com/dirkhe1051931999/vue-myBlog)
+   - :blue_book: [基于 vue+nuxt+less+es6+webpack 的博客前台](https://github.com/dirkhe1051931999/vue-myBlog)
    - :iphone: [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
-   - :newspaper: [上手 react：响应式新闻系统](https://github.com/dirkhe1051931999/react-simpleNews)
+   - :newspaper: [上手 react 之响应式新闻网站](https://github.com/dirkhe1051931999/react-simpleNews)
 2. :memo: vue
 
    - [vue2.4 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
