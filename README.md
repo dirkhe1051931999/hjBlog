@@ -1,6 +1,6 @@
 ## :rainbow: 关键字
 
-> 1. :key: 自律是对自己起码的尊重
+> 1. :key: 人们总是高估一天能做的事，却低估一年能做的事
 > 2. :key: 开启下一篇章
 
 ## :rainbow: 关于我
@@ -11,8 +11,10 @@
 
 ## :rainbow: 博客
 
+- [我为什么要写博客]()
+
 1. :memo: 个人作品
-   - :musical_note: [vue 仿网易云音乐 webAPP](https://github.com/dirkhe1051931999/vue-music-v2)
+   - :musical_note: [vue 仿网易云音乐 webApp](https://github.com/dirkhe1051931999/vue-music-v2)
    - :notebook: [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/vue-blog-management)
    - :blue_book: [基于 vue+nuxt+less+es6+webpack 的博客前台](https://github.com/dirkhe1051931999/vue-myBlog)
    - :iphone: [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
@@ -150,3 +152,8 @@
     - 进阶
       - [vue+ts 环境搭建](https://github.com/dirkhe1051931999/common-demo/tree/master/vue-with-ts-env)
       - [vue+ts 实现 qq 音乐首页 demo](https://github.com/dirkhe1051931999/common-demo/tree/master/vue-pug-ts-demo)
+
+## 2019 年下半年计划
+
+1. 如何避免阶段性焦虑
+2. 待续...
