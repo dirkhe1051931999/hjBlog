@@ -112,6 +112,7 @@
      - [拒绝 git 三板斧](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-engineering/lessons/01.md)
 9. :memo: JavaScript 梯子
    - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
+   - [网易云歌词解析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/26.md)
 10. :memo: JavaScript/ECMAScript 奥秘
 
     - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
