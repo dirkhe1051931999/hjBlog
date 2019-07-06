@@ -11,7 +11,7 @@
 
 ## :rainbow: 博客
 
-- [我为什么要写博客]()
+- [职业规划](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-feel/lessons/01.md)
 
 1. :memo: 个人作品
    - :musical_note: [vue 仿网易云音乐 webApp](https://github.com/dirkhe1051931999/vue-music-v2)
