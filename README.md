@@ -52,45 +52,45 @@
    - [基于 commander 的项目初始化脚手架工具](https://github.com/dirkhe1051931999/common-demo/tree/master/node-icli)
 6. :memo: vue 源码
 
-   - [vue 源码学习第 1 天：整体分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
+   - [整体概括](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
    - 数据驱动
-     - [vue 源码学习第 2 天：vue 目录与构建过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/02.md)
-     - [vue 源码学习第 3 天：new Vue 后发生了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/03.md)
-     - [vue 源码学习第 4 天：\$mount 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/04.md)
-     - [vue 源码学习第 5 天：vm.\_render 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/05.md)
-     - [vue 源码学习第 6 天：普通 VNode 的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/06.md)
-     - [前六天小结，new Vue 后生成 dom 的过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/07.md)
+     - [vue 目录与构建过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/02.md)
+     - [new Vue 后发生了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/03.md)
+     - [\$mount 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/04.md)
+     - [vm.\_render 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/05.md)
+     - [普通 VNode 的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/06.md)
+     - [后生成 dom 的过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/07.md)
    - 组件化
-     - [vue 源码学习第 7 天：组件 VNode 的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/08.md)
-     - [vue 源码学习第 8 天：patch 的过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/09.md)
-     - [vue 源码学习第 9 天：new Vue 后的 options 合并过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/10.md)
-     - [vue 源码学习第 10 天：生命周期的定义](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/11.md)
-     - [vue 源码学习第 11 天：组件注册](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/12.md)
-     - [vue 源码学习第 12 天：异步组件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/13.md)
+     - [组件 VNode 的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/08.md)
+     - [patch 的过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/09.md)
+     - [new Vue 后的 options 合并过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/10.md)
+     - [生命周期的定义](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/11.md)
+     - [组件注册](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/12.md)
+     - [异步组件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/13.md)
    - 响应式原理
-     - [vue 源码学习第 13 天：响应式对象](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/14.md)
-     - [vue 源码学习第 14 天：依赖收集过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/15.md)
-     - [vue 源码学习第 15 天：派发更新过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/16.md)
-     - [vue 源码学习第 16 天：nextTick](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/17.md)
-     - [vue 源码学习第 17 天：Vue.set 的原理](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/18.md)
-     - [vue 源码学习第 18 天：计算属性 computed](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/19.md)
-     - [vue 源码学习第 19 天：侦听属性 watch](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/20.md)
-     - [vue 源码学习第 20 天：组件更新](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/21.md)
-     - [vue 源码学习第 21 天：响应式原理：data/props、computed、user watch 和组件的响应式原理总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/22.md)
+     - [响应式对象](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/14.md)
+     - [依赖收集过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/15.md)
+     - [派发更新过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/16.md)
+     - [nextTick](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/17.md)
+     - [Vue.set 的原理](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/18.md)
+     - [计算属性 computed](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/19.md)
+     - [侦听属性 watch](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/20.md)
+     - [组件更新](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/21.md)
+     - [响应式原理：data/props、computed、user watch 和组件的响应式原理总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/22.md)
    - 编译
-     - [vue 源码学习第 22 天：compiler 都做了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/23.md)
-     - [vue 源码学习第 23 天：编译--parse 过程(解析 template)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/24.md)
-     - [vue 源码学习第 23 天：parse 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/26.md)
-     - [vue 源码学习第 24 天：编译--optimize 过程(优化 AST 树)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/25.md)
-     - [vue 源码学习第 24 天：optimize 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/27.md)
-     - [vue 源码学习第 25 天：编译--generate 过程(将 AST 转成 render 代码字符串)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/28.md)
-     - [vue 源码学习第 25 天：generate 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/29.md)
+     - [compiler 都做了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/23.md)
+     - [编译--parse 过程(解析 template)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/24.md)
+     - [parse 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/26.md)
+     - [编译--optimize 过程(优化 AST 树)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/25.md)
+     - [optimize 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/27.md)
+     - [编译--generate 过程(将 AST 转成 render 代码字符串)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/28.md)
+     - [generate 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/29.md)
    - vue 的 features
-     - [vue 源码学习第 26 天：DOM 事件与自定义事件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/30.md)
-     - [vue 源码学习第 27 天：v-model 的双向绑定](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/31.md)
+     - [DOM 事件与自定义事件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/30.md)
+     - [v-model 的双向绑定](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/31.md)
    - vuex
-     - [vue 源码学习第 28 天：vuex 的初始化：安装与 Store 实例化过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/32.md)
-     - [vue 源码学习第 29 天：vuex 的 API 、插件和对 vuex 的一些思考](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/33.md)
+     - [vuex 的初始化：安装与 Store 实例化过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/32.md)
+     - [vuex 的 API 、插件和对 vuex 的一些思考](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/33.md)
 
 7. :memo: 前端安全
    - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
@@ -153,8 +153,4 @@
     - 进阶
       - [vue+ts 环境搭建](https://github.com/dirkhe1051931999/common-demo/tree/master/vue-with-ts-env)
       - [vue+ts 实现 qq 音乐首页 demo](https://github.com/dirkhe1051931999/common-demo/tree/master/vue-pug-ts-demo)
-
-## 2019 年下半年计划
-
-1. 如何避免阶段性焦虑
-2. 待续...
+12. :memo: [web页面性能优化之旅](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-web-optimize)
