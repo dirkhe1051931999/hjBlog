@@ -7,14 +7,16 @@
 ## 优化前置知识
 
 1. [chrome 开发者工具-Network](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/01.md)
-2. chromechrome 开发者工具之 Performance、Memory
-3. url 的解析过程
-4. nginx 的基础知识
-5. 哪些指标能够衡量页面性能
-6. 解耦、颗粒度、吞吐量
-7. PWA--降低首屏渲染时间，极大提升体验
-8. 图片优化-- webp 格式
-9. http 优化--三次握手/四次挥手
+2. [chrome 开发者工具-Performance(1)](https://juejin.im/post/5c009115f265da612859d8e2)
+3. [chrome 开发者工具-Performance(2)](https://zhuanlan.zhihu.com/p/29879682)
+4. [chrome 开发者工具-Performance 的 API](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/02.md)
+5. url 的解析过程
+6. nginx 的基础知识
+7. 哪些指标能够衡量页面性能
+8. 解耦、颗粒度、吞吐量
+9. PWA--降低首屏渲染时间，极大提升体验
+10. 图片优化-- webp 格式
+11. http 优化--三次握手/四次挥手
 
 ## html/css/js 中的优化
 
