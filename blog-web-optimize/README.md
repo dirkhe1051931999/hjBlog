@@ -10,7 +10,7 @@
 2. [chrome 开发者工具-Performance(1)](https://juejin.im/post/5c009115f265da612859d8e2)
 3. [chrome 开发者工具-Performance(2)](https://zhuanlan.zhihu.com/p/29879682)
 4. [chrome 开发者工具-Performance 的 API](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/02.md)
-5. url 的解析过程
+5. [浏览器输入 URL 发生了什么](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/03.md)
 6. nginx 的基础知识
 7. 哪些指标能够衡量页面性能
 8. 解耦、颗粒度、吞吐量
