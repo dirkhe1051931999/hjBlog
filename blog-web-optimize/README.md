@@ -1,6 +1,6 @@
 # 你必须要经历的 web 页面性能优化之旅
 
-![](./screenshot/00.png)
+<img src="./screenshot/00.jpg" width="100%">
 
 由浅至深的总结 web 页面性能优化
 
@@ -11,7 +11,7 @@
 3. [chrome 开发者工具-Performance(2)](https://zhuanlan.zhihu.com/p/29879682)
 4. [chrome 开发者工具-Performance 的 API](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/02.md)
 5. [浏览器输入 URL 发生了什么](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/03.md)
-6. nginx 的基础知识
+6. [nginx 的反向代理与负载均衡](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/04.md)
 7. 哪些指标能够衡量页面性能
 8. 解耦、颗粒度、吞吐量
 9. PWA--降低首屏渲染时间，极大提升体验
