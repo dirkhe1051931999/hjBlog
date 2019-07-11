@@ -12,7 +12,7 @@
 4. [chrome 开发者工具-Performance 的 API](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/02.md)
 5. [浏览器输入 URL 发生了什么](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/03.md)
 6. [nginx 的反向代理与负载均衡](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/04.md)
-7. 哪些指标能够衡量页面性能
+7. [哪些指标能够衡量页面性能](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/05.md)
 8. 解耦、颗粒度、吞吐量
 9. PWA--降低首屏渲染时间，极大提升体验
 10. 图片优化-- webp 格式
