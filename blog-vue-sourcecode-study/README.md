@@ -1,0 +1,41 @@
+<img src="https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/screenshot/00.jpg" style="text-align:center;">
+
+- [整体概括](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/01.md)
+- 数据驱动
+  - [vue 目录与构建过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/02.md)
+  - [new Vue 后发生了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/03.md)
+  - [\$mount 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/04.md)
+  - [vm.\_render 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/05.md)
+  - [普通 VNode 的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/06.md)
+  - [后生成 dom 的过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/07.md)
+- 组件化
+  - [组件 VNode 的生成过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/08.md)
+  - [patch 的过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/09.md)
+  - [new Vue 后的 options 合并过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/10.md)
+  - [生命周期的定义](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/11.md)
+  - [组件注册](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/12.md)
+  - [异步组件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/13.md)
+- 响应式原理
+  - [响应式对象](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/14.md)
+  - [依赖收集过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/15.md)
+  - [派发更新过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/16.md)
+  - [nextTick](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/17.md)
+  - [Vue.set 的原理](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/18.md)
+  - [计算属性 computed](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/19.md)
+  - [侦听属性 watch](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/20.md)
+  - [组件更新](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/21.md)
+  - [响应式原理：data/props、computed、user watch 和组件的响应式原理总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/22.md)
+- 编译
+  - [compiler 都做了什么](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/23.md)
+  - [编译--parse 过程(解析 template)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/24.md)
+  - [parse 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/26.md)
+  - [编译--optimize 过程(优化 AST 树)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/25.md)
+  - [optimize 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/27.md)
+  - [编译--generate 过程(将 AST 转成 render 代码字符串)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/28.md)
+  - [generate 的实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/29.md)
+- vue 的 features
+  - [DOM 事件与自定义事件](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/30.md)
+  - [v-model 的双向绑定](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/31.md)
+- vuex
+  - [vuex 的初始化：安装与 Store 实例化过程](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/32.md)
+  - [vuex 的 API 、插件和对 vuex 的一些思考](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study/lessons/33.md)
