@@ -68,6 +68,8 @@
     - [webpack 深入配置](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/readme.md#2)
     - [webpack 性能优化](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/readme.md#3)
     - [webapck 进阶](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/readme.md#4)
+    - [webpack4 多页面打包(.html 版本)](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-multiPage)
+    - [webpack4 多页面打包(.vue 版本)](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-vue-multiPage)
   - git
     - [拒绝 git 三板斧](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-engineering/lessons/01.md)
 - :memo: JavaScript 梯子
