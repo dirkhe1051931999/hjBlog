@@ -15,7 +15,7 @@
 7. [哪些指标能够衡量页面性能](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/05.md)
 8. [简单理解解耦、颗粒度、吞吐量](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/06.md)
 9. [PWA--降低首屏渲染时间，极大提升体验](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/07.md)
-10. 图片优化-- webp 格式
+10. [图片优化-- webp 格式](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/08.md)
 11. http 优化--三次握手/四次挥手
 
 ## html/css/js 中的优化
