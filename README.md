@@ -14,7 +14,7 @@
 - [你想要的 vue 源码分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study)
 - [你一定要经历 web 页面性能优化之旅](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-web-optimize)
 
-- :memo: 个人作品
+- :memo: 我的作品
   - :musical_note: [vue 仿网易云音乐 webApp](https://github.com/dirkhe1051931999/vue-music-v2)
   - :notebook: [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/vue-blog-management)
   - :blue_book: [基于 vue+nuxt+less+es6+webpack 的博客前台](https://github.com/dirkhe1051931999/vue-myBlog)
