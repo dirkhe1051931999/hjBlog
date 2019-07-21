@@ -1,6 +1,7 @@
 ## :rainbow: 关键字
 
 > 1. :key: 人们总是高估一天能做的事，却低估一年能做的事
+> 2. :key: 做好计划，全力以赴
 
 ## :rainbow: 关于我
 
@@ -13,6 +14,7 @@
 - [你必须要做的职业规划](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-feel/lessons/01.md)
 - [你想要的 vue 源码分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study)
 - [你一定要经历 web 页面性能优化之旅](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-web-optimize)
+- [我的数据结构和算法之路](https://github.com/dirkhe1051931999/algorithm-learning)
 
 - :memo: 我的作品
   - :musical_note: [vue 仿网易云音乐 webApp](https://github.com/dirkhe1051931999/vue-music-v2)
