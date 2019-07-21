@@ -20,7 +20,7 @@
 
 ## html/css/js 中的优化
 
-1. 防抖、节流、懒加载、预加载
+1. [防抖、节流、懒加载、预加载](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/09.md)
 2. cdn、雪碧图、合并资源、缓存/缓存 dom、async/defer/异步加载
 
 ## http 的优化
@@ -28,7 +28,7 @@
 1. 负载均衡
 2. gz
 
-## vue 中的优化
+## [Vue 应用性能优化指南](https://juejin.im/post/5b960fcae51d450e9d645c5f)
 
 1. Vue 应用运行时性能优化措施
 
@@ -53,5 +53,9 @@
    组件懒加载
 
 ## webpack 的优化
+
+1. [Webpack 重要知识点](http://www.fly63.com/article/detial/4027)
+2. [浅谈 webpack 优化](http://www.fly63.com/article/detial/4027)
+3. [webpack 学习笔记](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes)
 
 ## 其他
