@@ -13,8 +13,8 @@
 
 - [你必须要做的职业规划](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-feel/lessons/01.md)
 - [你想要的 vue 源码分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study)
-- [你一定要经历 web 页面性能优化之旅](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-web-optimize)
-- [我的数据结构和算法之路](https://github.com/dirkhe1051931999/algorithm-learning)
+- [你一定要经历的 web 页面性能优化之旅](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-web-optimize)
+- [你不得不去走的数据结构和算法之路](https://github.com/dirkhe1051931999/algorithm-learning)
 
 - :memo: 我的作品
   - :musical_note: [vue 仿网易云音乐 webApp](https://github.com/dirkhe1051931999/vue-music-v2)
