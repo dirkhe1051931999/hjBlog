@@ -1,6 +1,6 @@
 # 小程序之路
 
-![](../screenshot/banner.jpg)
+![](./screenshot/banner.jpg)
 
 ## 微信小程序入门
 
