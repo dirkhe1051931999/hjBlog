@@ -15,6 +15,7 @@
 - :taxi: [你想要的 vue 源码分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study)
 - :train: [你一定要经历的 web 页面性能优化之旅](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-web-optimize)
 - :truck: [你不得不去走的数据结构和算法之路](https://github.com/dirkhe1051931999/algorithm)
+- :truck: [小程序之路](https://github.com/dirkhe1051931999/blog-applet)
 
 - :memo: 我的作品
   - :musical_note: [vue 仿网易云音乐 webApp](https://github.com/dirkhe1051931999/vue-music-v2)
