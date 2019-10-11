@@ -86,6 +86,7 @@
   - [Set、WeakSet、Map、WeakMap](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/10.md)
   - [ES5 和 ES6 数组遍历方法的使用与实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/11.md)
   - [ES5 和 ES6 对象遍历方法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/12.md)
+  - [对象的交集、并集和差集](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/27.md)
   - JavaScript 深入
     - [理解 js 引擎执行过程：运行机制，语法分析，创建函数调用栈，创建上下文，创建作用域链](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/03.md)
     - [理解 js 的微任务(microtask)与宏任务(microtask)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/25.md)
