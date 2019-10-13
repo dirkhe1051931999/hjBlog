@@ -27,7 +27,8 @@
 
   - [vue2.4 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
   - [vue2.6 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/03.md)
-  - [vue3.0 为什么要用 Proxy 替代 defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/04.md)
+  - [vue3 为什么要用 Proxy 替代 defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/04.md)
+  - [vue3 的数据响应原理和实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/15.md)
   - [vue-cli2 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/10.md)
   - [vue-cli3 的配置文件详细介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/11.md)
   - [vue 组件通信的 6 种方式](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/06.md)
