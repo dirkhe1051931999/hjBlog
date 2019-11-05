@@ -21,4 +21,7 @@
 
 ## 微信小程序进阶
 
+1. :iphone: [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
+2. :iphone: [垃圾分类小程序](https://github.com/dirkhe1051931999/wx-rubbish)
+
 ## 微信小程序深入
