@@ -122,3 +122,4 @@
     - [vue+ts 实现 qq 音乐首页 demo](https://github.com/dirkhe1051931999/common-demo/tree/master/vue-pug-ts-demo)
 - :memo: Electron
   - [electron 入门](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-electron/lessons/01.md)
+  - [vue 与 electron](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-electron/lessons/02.md)
