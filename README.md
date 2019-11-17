@@ -23,6 +23,7 @@
   - :blue_book: [基于 vue+nuxt+less+es6+webpack 的博客前台](https://github.com/dirkhe1051931999/vue-myBlog)
   - :iphone: [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
   - :newspaper: [上手 react 之响应式新闻网站](https://github.com/dirkhe1051931999/react-simpleNews)
+  - :newspaper: [vue + koa2 + webpack4 实现服务端渲染](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/16.md)
 - :memo: vue
 
   - [vue2.4 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
@@ -40,6 +41,7 @@
   - [vue-cli3 中使用骨架屏](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/12.md)
   - [vuex 的原理与使用](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/13.md)
   - [\$listener 与 vue 自定义事件的联系](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/14.md)
+  - [vue + koa2 + webpack4 实现服务端渲染](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/16.md)
 
 - :memo: css3
   - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
