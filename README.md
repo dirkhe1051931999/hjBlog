@@ -15,7 +15,7 @@
 - :taxi: [你想要的 vue 源码分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study)
 - :train: [你一定要经历的 web 页面性能优化之旅](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-web-optimize)
 - :truck: [你不得不去走的数据结构和算法之路](https://github.com/dirkhe1051931999/algorithm)
-- :truck: [小程序之路](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-applet)
+- :shell: [小程序之路](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-applet)
 
 - :memo: 我的作品
   - :musical_note: [vue 仿网易云音乐 webApp](https://github.com/dirkhe1051931999/vue-music-v2)
@@ -23,7 +23,7 @@
   - :blue_book: [基于 vue+nuxt+less+es6+webpack 的博客前台](https://github.com/dirkhe1051931999/vue-myBlog)
   - :iphone: [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
   - :newspaper: [上手 react 之响应式新闻网站](https://github.com/dirkhe1051931999/react-simpleNews)
-  - :newspaper: [vue + koa2 + webpack4 实现服务端渲染](https://github.com/dirkhe1051931999/vue-ssr-template)
+  - :cactus: [vue + koa2 + webpack4 实现服务端渲染](https://github.com/dirkhe1051931999/vue-ssr-template)
 - :memo: vue
 
   - [vue2.4 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
