@@ -2,7 +2,7 @@
 
 <img src="./screenshot/00.jpg" width="100%">
 
-由浅至深的总结 web 页面性能优化
+> 开发 web 产品最终的目的是服务用户，提升用户体验，用户体验包含产品功能、交互视觉、前端性能，而做性能优化的最终目的是提升前端性能，从而提升用户体验，所以这个专栏是由浅至深的总结 web 页面性能优化，先总结基础知识，再总结我平时工作的 vue 页面性能优化实践
 
 ## 优化前置知识
 
@@ -18,7 +18,7 @@
 10. [图片优化-- webp 格式](https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-web-optimize/lessons/08.md)
 11. [http 优化--三次握手/四次挥手](https://juejin.im/post/5b83b0bfe51d4538c63131a8#heading-17)
 
-## vue 页面性能优化实践
+## 工作中 vue 页面性能优化实践
 
 - 前端
 
@@ -57,3 +57,7 @@
 2. 优化 DNS 解析时间
 3. 开启 gzip（如果服务端开启，webpack 就不用 gzip 了）
 4. nginx 开启缓存（缓存有利有弊，我碰到一个 js 文件缓存是 30 年，修改线上的图片，需要更改图片的名字。。。）
+
+## 工具
+
+1. [Google 的网页性能优化工具](https://developers.google.com/speed/pagespeed/insights/?hl=zh-cn)
