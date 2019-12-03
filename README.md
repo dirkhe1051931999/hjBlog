@@ -111,6 +111,7 @@
     - [js 设计模式-发布订阅模式(观察者模式)](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/23.md)
   - Promise
     - [Promise 的基本用法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/05.md)
+    - [Promise 与 for 循环的几个题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/29.md)
     - [Promise 实现红绿灯](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/06.md)
     - [Promise 封装一个 messageBox](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/07.md)
     - [Promise 封装 axios](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/08.md)
