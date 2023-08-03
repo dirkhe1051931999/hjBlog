@@ -1,31 +1,66 @@
-## :rainbow: 关键字
+## 🌈 关于我
 
-> 1. :key: 人一辈子花的最多时间就是工作，工作是场马拉松，如何起跑，如何田忌赛马，是一个值得思考的问题。🤔
+```
+1️⃣ 人一辈子花的最多时间就是工作，工作是场马拉松，如何起跑，如何加减速，这是一个值得思考的问题。
+2️⃣ 水满则溢，月盈则亏；命中有时终须有，命中无时莫强求。
+```
 
-## :rainbow: 关于我
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=dirkhe1051931999&show_icons=true&theme=radical" height="185">
+</p>   
+<table>
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
+    </td>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+    </td>
+</tr>
+</table>
 
-- :point_right: 一个无聊的人
+## 🌈 博客
 
-## :rainbow: 博客
+- 📖 我的专栏
 
-- :memo: 我的专栏
+  - ✅ [你必须要做的职业规划](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-feel/lessons/01.md)
+  - ✅ [【转】为什么 Web 前端语言只有 JavaScript?](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-feel/lessons/02.md)
+  - ✅ [你想要的 vue 源码分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study)
+  - ✅ [你一定要经历的 web 页面性能优化之旅](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-web-optimize)
+  - ✅ [你不得不去走的数据结构和算法之路](https://github.com/dirkhe1051931999/algorithm)
+  - ✅ [自己造的轮子](https://github.com/dirkhe1051931999/common-demo)
 
-  - :car: [你必须要做的职业规划](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-feel/lessons/01.md)
-  - :tractor: [【转】为什么 Web 前端语言只有 JavaScript?](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-feel/lessons/02.md)
-  - :taxi: [你想要的 vue 源码分析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue-sourcecode-study)
-  - :train: [你一定要经历的 web 页面性能优化之旅](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-web-optimize)
-  - :truck: [你不得不去走的数据结构和算法之路](https://github.com/dirkhe1051931999/algorithm)
-  - :shell: [小程序之路](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-applet)
-  - :chestnut: [自己造的轮子](https://github.com/dirkhe1051931999/common-demo)
+- 📖 我的作品
 
-- :memo: 我的作品
-  - :musical_note: [vue 仿网易云音乐 webApp](https://github.com/dirkhe1051931999/vue-music-v2)
-  - :notebook: [基于 vue+webpack+koa+redis+mysql+socket 的博客后台管理系统](https://github.com/dirkhe1051931999/vue-management)
-  - :blue_book: [基于 vue+nuxt+less+es6+webpack 的博客前台](https://github.com/dirkhe1051931999/vue-myBlog)
-  - :iphone: [微信小程序之模仿百思不得姐](https://github.com/dirkhe1051931999/wx-baisibudeqijie)
-  - :newspaper: [上手 react 之响应式新闻网站](https://github.com/dirkhe1051931999/react-simpleNews)
-  - :cactus: [vue+koa2+webpack4+ssr+boostrap 响应式个人博客](https://github.com/dirkhe1051931999/vue-ssr-blog)
-- :memo: vue
+  - ✅ [基于 Google Material 风格的 Quasar 后台管理模板](https://github.com/dirkhe1051931999/quasar-typescript-admin-template)
+  - ✅ [基于 Google Material 风格的 Angular 后台管理模板](https://github.com/dirkhe1051931999/angular-admin-template)
+  - ✅ [跨栈多平台服务](https://github.com/dirkhe1051931999/aphelios)
+  - ✅ [Flutter 模板](https://github.com/dirkhe1051931999/flutter-template)
+  - ✅ [凤凰新闻 Web APP](https://github.com/dirkhe1051931999/ifeng)
+  - ✅ [网易云音乐 Web APP](https://github.com/dirkhe1051931999/vue-music-v2)
+  - ✅ [Electron 项目模板](https://github.com/dirkhe1051931999/electron-vue-vite-quickstart)
+
+- 📖 vue
 
   - [vue2.4 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/02.md)
   - [vue2.6 增加的特性](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/03.md)
@@ -44,21 +79,28 @@
   - [\$listener 与 vue 自定义事件的联系](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/14.md)
   - [vue + koa2 + webpack4 实现服务端渲染](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-vue/lessons/16.md)
 
-- :memo: css3
+- 📖 css3
+
   - [animation 与 transition 的区别](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/01.md)
   - [z-index 层叠规则](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/02.md)
   - [rem 布局原理](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/03.md)
   - [BFC 与 FFC](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-css/lessons/04.md)
   - [vw 移动端适配方法](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/step8)
-- :memo: http
+
+- 📖 http
+
   - [axios 的拦截器](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/01.md)
   - [http 的 header 头](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-http/lessons/02.md)
-- :memo: nodejs
+
+- 📖 nodejs
+
   - [nodejs 的 util 模块](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/01.md)
   - [nodejs 如何使用 ES6 的 import 等语法](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/02.md)
   - [nodejs 命令行脚手架工具 Commander](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-node/lessons/03.md)
   - [基于 commander 的项目初始化脚手架工具](https://github.com/dirkhe1051931999/common-demo/tree/master/node-icli)
-- :memo: 前端安全
+
+- 📖 前端安全
+
   - [前端 XSS 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/01.md)
   - [前端 CSRF 攻击](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/02.md)
   - [cookie 的安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/03.md)
@@ -68,7 +110,9 @@
   - [sql 注入的问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/07.md)
   - [其他的安全问题](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/08.md)
   - [web 安全总结](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-security/lessons/09.md)
-- :memo: 前端工程化
+
+- 📖 前端工程化
+
   - webpack
     - [webpack 基础配置](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/readme.md#1)
     - [webpack 深入配置](https://github.com/dirkhe1051931999/common-demo/blob/master/webpack-study-notes/readme.md#2)
@@ -78,11 +122,14 @@
     - [webpack4 多页面打包(.vue 版本)](https://github.com/dirkhe1051931999/common-demo/tree/master/webpack-vue-multiPage)
   - git
     - [拒绝 git 三板斧](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-engineering/lessons/01.md)
-- :memo: JavaScript 梯子
+
+- 📖 JavaScript 梯子
+
   - [javascript 数组，时间，dom，http，number，storage，string，类型检测等工具方法](https://github.com/dirkhe1051931999/common-demo/tree/master/tools)
   - [网易云歌词解析](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/26.md)
   - [js dom 模板渲染函数](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/28.md)
-- :memo: JavaScript/ECMAScript
+
+- 📖 JavaScript/ECMAScript
 
   - [Object.defineProperty](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/01.md)
   - [Proxy](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/02.md)
@@ -115,7 +162,8 @@
     - [Promise 封装 axios](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/08.md)
     - [Promise 源码实现](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-JavaScript/lessons/16.md)
 
-- :memo: TypeScript
+- 📖 TypeScript
+
   - 入门
     - [TypeScript 介绍](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/00.md)
     - [TypeScript 基础](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-TypeScript/lessons/01.md)
@@ -124,9 +172,12 @@
   - 进阶
     - [vue+ts 环境搭建](https://github.com/dirkhe1051931999/common-demo/tree/master/vue-with-ts-env)
     - [vue+ts 实现 qq 音乐首页 demo](https://github.com/dirkhe1051931999/common-demo/tree/master/vue-pug-ts-demo)
-- :memo: Electron
+
+- 📖 Electron
+
   - [electron 入门](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-electron/lessons/01.md)
   - [vue 与 electron](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-electron/lessons/02.md)
-- :memo: linux 与网络
+
+- 📖 linux 与网络
   - [在 vmware 搭建 centos7](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-linux/lessons/01.md)
   - [linux 常见命令](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-linux/lessons/02.md)
