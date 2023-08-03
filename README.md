@@ -127,5 +127,6 @@
 - :memo: Electron
   - [electron 入门](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-electron/lessons/01.md)
   - [vue 与 electron](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-electron/lessons/02.md)
-- :memo: 虚拟机与 docker
-  - [在vmware 搭建 centos7](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-docker/lessons/01.md)
+- :memo: linux 与网络
+  - [在 vmware 搭建 centos7](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-linux/lessons/01.md)
+  - [linux 常见命令](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-linux/lessons/02.md)
