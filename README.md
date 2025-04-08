@@ -181,3 +181,6 @@
 - 📖 linux 与网络
   - [在 vmware 搭建 centos7](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-linux/lessons/01.md)
   - [linux 常见命令](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-linux/lessons/02.md)
+
+- 📖 AI
+  - [cursor 使用](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-ai/lessons/01.md)
