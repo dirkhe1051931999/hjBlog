@@ -3,41 +3,8 @@
 ```
 1️⃣ 人一辈子花的最多时间就是工作，工作是场马拉松，如何起跑，如何加减速，这是一个值得思考的问题。
 2️⃣ 水满则溢，月盈则亏；命中有时终须有，命中无时莫强求。
+3️⃣ 走窄路，耕瘦田
 ```
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dirkhe1051931999&show_icons=true&theme=radical" height="185">
-</p>   
-<table>
-<tr>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg">
-    </td>
-     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
-    </td>
-    <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-    </td>
-</tr>
-</table>
 
 ## 🌈 博客
 
@@ -49,16 +16,6 @@
   - ✅ [你一定要经历的 web 页面性能优化之旅](https://github.com/dirkhe1051931999/hjBlog/tree/master/blog-web-optimize)
   - ✅ [你不得不去走的数据结构和算法之路](https://github.com/dirkhe1051931999/algorithm)
   - ✅ [自己造的轮子](https://github.com/dirkhe1051931999/common-demo)
-
-- 📖 我的作品
-
-  - ✅ [基于 Google Material 风格的 Quasar 后台管理模板](https://github.com/dirkhe1051931999/quasar-typescript-admin-template)
-  - ✅ [基于 Google Material 风格的 Angular 后台管理模板](https://github.com/dirkhe1051931999/angular-admin-template)
-  - ✅ [跨栈多平台服务](https://github.com/dirkhe1051931999/aphelios)
-  - ✅ [Flutter 模板](https://github.com/dirkhe1051931999/flutter-template)
-  - ✅ [凤凰新闻 Web APP](https://github.com/dirkhe1051931999/ifeng)
-  - ✅ [网易云音乐 Web APP](https://github.com/dirkhe1051931999/vue-music-v2)
-  - ✅ [Electron 项目模板](https://github.com/dirkhe1051931999/electron-vue-vite-quickstart)
 
 - 📖 vue
 
